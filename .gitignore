@@ -133,13 +133,3 @@ celerybeat.pid
 *.swp
 *.swo
 *~
-
-# Storage
-storage/*
-!storage/.gitkeep
-
-# App
-app/
-
-# Core
-core/
